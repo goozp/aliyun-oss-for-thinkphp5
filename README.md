@@ -15,4 +15,4 @@
 
 ## 预览
 直传预览：
-<img src="static/index/images/look-like.png" />
+<img src="look-like.png" />
